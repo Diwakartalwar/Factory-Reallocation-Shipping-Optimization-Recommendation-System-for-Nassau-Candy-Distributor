@@ -75,18 +75,6 @@ env/
 .ipynb_checkpoints
 *.ipynb
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.parquet
-*.pickle
-*.pkl
-data/
-datasets/
-*.db
-*.sqlite
-*.sqlite3
 
 # Logs
 *.log
